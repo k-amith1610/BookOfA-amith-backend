@@ -1,0 +1,162 @@
+[
+    {
+        "name": "The Lean Startup",
+        "title": "Business Strategy and Innovation for Modern Entrepreneurs and Startups",
+        "price": 0,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Free"
+    },
+    {
+        "name": "Good to Great",
+        "title": "Building Successful Companies and Achieving Long-Term Business Growth",
+        "price": 10,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Premium"
+    },
+    {
+        "name": "Thinking, Fast and Slow",
+        "title": "Psychological Insights into Decision Making and Human Behavior",
+        "price": 0,
+        "category": "Psychology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Free"
+    },
+    {
+        "name": "The Power of Habit",
+        "title": "Understanding Habits and How to Change Them for Success",
+        "price": 15,
+        "category": "Self-Help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Premium"
+    },
+    {
+        "name": "Atomic Habits",
+        "title": "Tiny Changes, Remarkable Results for Building Good Habits",
+        "price": 0,
+        "category": "Self-Help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Free"
+    },
+    {
+        "name": "Sapiens",
+        "title": "A Brief History of Humankind from Ancient Times to Present",
+        "price": 20,
+        "category": "History",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Premium"
+    },
+    {
+        "name": "Educated",
+        "title": "A Memoir of Overcoming Adversity and Pursuing Knowledge",
+        "price": 0,
+        "category": "Biography",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Free"
+    },
+    {
+        "name": "The Effective Executive",
+        "title": "Essential Leadership Skills for Managers and Business Leaders",
+        "price": 25,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Premium"
+    },
+    {
+        "name": "The 7 Habits of Highly Effective People",
+        "title": "Principles of Personal Change and Development for Success",
+        "price": 0,
+        "category": "Self-Help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Free"
+    },
+    {
+        "name": "Becoming",
+        "title": "Michelle Obama's Memoir and Her Journey of Self-Discovery",
+        "price": 25,
+        "category": "Biography",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Premium"
+    },
+    {
+        "name": "The Alchemist",
+        "title": "A Journey of Self-Discovery and Personal Growth",
+        "price": 0,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Free"
+    },
+    {
+        "name": "Man's Search for Meaning",
+        "title": "Psychological Insights on Finding Purpose in Life",
+        "price": 30,
+        "category": "Psychology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Premium"
+    },
+    {
+        "name": "Deep Work",
+        "title": "Rules for Focused Success in a Distracted World",
+        "price": 0,
+        "category": "Self-Help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Free"
+    },
+    {
+        "name": "Grit",
+        "title": "The Power of Passion and Perseverance",
+        "price": 18,
+        "category": "Self-Help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Premium"
+    },
+    {
+        "name": "The Innovator's Dilemma",
+        "title": "When New Technologies Cause Great Firms to Fail",
+        "price": 0,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Free" 
+    },
+    {
+        "name": "The Subtle Art of Not Giving a F*ck",
+        "title": "A Counterintuitive Approach to Living a Good Life",
+        "price": 22,
+        "category": "Self-Help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Premium"
+    },
+    {
+        "name": "Zero to One",
+        "title": "Notes on Startups, or How to Build the Future",
+        "price": 0,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Free"
+    },
+    {
+        "name": "The Four Agreements",
+        "title": "A Practical Guide to Personal Freedom",
+        "price": 15,
+        "category": "Self-Help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Premium"
+    },
+    {
+        "name": "12 Rules for Life",
+        "title": "An Antidote to Chaos by Jordan Peterson",
+        "price": 0,
+        "category": "Self-Help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Free"
+    },
+    {
+        "name": "Principles",
+        "title": "Life and Work by Ray Dalio",
+        "price": 35,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+        "type": "Premium"
+    }
+]
